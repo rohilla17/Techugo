@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TechugoAssignment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map">Map</string>
+    <string name="call">Call</string>
+    <string name="menu">Menu</string>
+    <string name="offers">Offers</string>
+    <string name="description">Descriptions</string>
+    <string name="toolbar_heading">Fitness&amp;Wellness</string>
+    <string name="techugo_assignment">TECHUGO ASSIGNMENT</string>
+    <string name="redeem">Redeem</string>
+    <string name="fitness_wellness">Fitness and Wellness</string>
+    <string name="no_internet">No Internet Connection! Please try again</string>
+    <string name="network_error">Something went wrong! Please try again</string>
+
+
+</resources>
